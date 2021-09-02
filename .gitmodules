@@ -1,0 +1,3 @@
+[submodule "basic-algorithms"]
+	path = basic-algorithms
+	url = git@github.com:newtonjose/basics-algorithms.git
